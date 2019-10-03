@@ -1,0 +1,7 @@
+#cloud-config
+
+apt-upgrade: true
+apt-update: true
+packages:
+  - monit
+final_message: "The system is finally up, after $UPTIME seconds"

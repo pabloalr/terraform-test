@@ -1,0 +1,5 @@
+terraform
+secret.*
+v3mailee-openrc.sh
+mailee-openrc.sh
+.terraform*
